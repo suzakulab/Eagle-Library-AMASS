@@ -1429,7 +1429,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="XT60">
+<deviceset name="XT60" prefix="CON">
 <description>&lt;b&gt;AMASS XT60 connector&lt;/b&gt;
 
 &lt;p&gt;Store in Japan&lt;/p&gt;
@@ -1496,7 +1496,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="XT30">
+<deviceset name="XT30" prefix="CON">
 <description>&lt;b&gt;AMASS XT30 connector&lt;/b&gt;
 
 &lt;p&gt;Store in Japan&lt;/p&gt;
@@ -1545,7 +1545,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="XT90">
+<deviceset name="XT90" prefix="CON">
 <description>&lt;b&gt;AMASS XT90 connector&lt;/b&gt;
 
 &lt;p&gt;Store in Japan&lt;/p&gt;
@@ -1594,7 +1594,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="MR30">
+<deviceset name="MR30" prefix="CON">
 <description>&lt;b&gt;AMASS MR30 connector&lt;/b&gt;
 
 &lt;p&gt;Store in Japan&lt;/p&gt;
