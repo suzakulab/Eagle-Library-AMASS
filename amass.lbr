@@ -77,8 +77,8 @@
 <packages>
 <package name="XT30PW-F">
 <description>AMASS XT30PW female type connector</description>
-<pad name="-" x="-2.5" y="0" drill="1.7"/>
-<pad name="+" x="2.5" y="0" drill="1.7"/>
+<pad name="-" x="-2.5" y="0" drill="1.8"/>
+<pad name="+" x="2.5" y="0" drill="1.8"/>
 <pad name="P$3" x="-5.5" y="5" drill="1.1"/>
 <pad name="P$4" x="5.5" y="5" drill="1.1"/>
 <wire x1="2" y1="5" x2="3" y2="5" width="0.127" layer="21"/>
@@ -281,8 +281,8 @@
 </package>
 <package name="XT30PW-M">
 <description>AMASS XT30PW male type connector</description>
-<pad name="+" x="-2.5" y="0" drill="1.7"/>
-<pad name="-" x="2.5" y="0" drill="1.7"/>
+<pad name="+" x="-2.5" y="0" drill="1.8"/>
+<pad name="-" x="2.5" y="0" drill="1.8"/>
 <pad name="P$3" x="-5.5" y="10" drill="1.1"/>
 <pad name="P$4" x="5.5" y="10" drill="1.1"/>
 <wire x1="-3" y1="5" x2="-2" y2="5" width="0.127" layer="21"/>
@@ -470,8 +470,8 @@
 <description>AMASS XT30UPB female type connector</description>
 <text x="-3.5" y="-5" size="1.778" layer="25">&gt;NAME</text>
 <text x="-4.5" y="3" size="1.778" layer="27">&gt;VALUE</text>
-<pad name="-" x="-2.5" y="0" drill="1.7"/>
-<pad name="+" x="2.5" y="0" drill="1.7"/>
+<pad name="-" x="-2.5" y="0" drill="1.8"/>
+<pad name="+" x="2.5" y="0" drill="1.8"/>
 <wire x1="-5.1" y1="0.6" x2="-5.1" y2="-0.6" width="0.127" layer="21"/>
 <wire x1="-5.1" y1="-0.6" x2="-3.1" y2="-2.6" width="0.127" layer="21" curve="90"/>
 <wire x1="-3.1" y1="-2.6" x2="5.1" y2="-2.6" width="0.127" layer="21"/>
@@ -502,8 +502,8 @@
 <description>AMASS XT30UPB male type connector</description>
 <text x="-3.5" y="-5" size="1.778" layer="25">&gt;NAME</text>
 <text x="-4.5" y="3" size="1.778" layer="27">&gt;VALUE</text>
-<pad name="-" x="-2.5" y="0" drill="1.7"/>
-<pad name="+" x="2.5" y="0" drill="1.7"/>
+<pad name="-" x="-2.5" y="0" drill="1.8"/>
+<pad name="+" x="2.5" y="0" drill="1.8"/>
 <wire x1="-5.1" y1="0.6" x2="-5.1" y2="-0.6" width="0.127" layer="21"/>
 <wire x1="-5.1" y1="-0.6" x2="-3.1" y2="-2.6" width="0.127" layer="21" curve="90"/>
 <wire x1="-3.1" y1="-2.6" x2="5.1" y2="-2.6" width="0.127" layer="21"/>
@@ -521,11 +521,11 @@
 </package>
 <package name="MR30PW-M">
 <description>AMASS MR30PW male type connector</description>
-<pad name="1" x="-3.5" y="0" drill="1.7"/>
-<pad name="2" x="0" y="0" drill="1.7"/>
-<pad name="3" x="3.5" y="0" drill="1.7"/>
-<pad name="P$4" x="-6.5" y="10" drill="1"/>
-<pad name="P$5" x="6.5" y="10" drill="1"/>
+<pad name="1" x="-3.5" y="0" drill="1.8"/>
+<pad name="2" x="0" y="0" drill="1.8"/>
+<pad name="3" x="3.5" y="0" drill="1.8"/>
+<pad name="P$4" x="-6.5" y="10" drill="1.1"/>
+<pad name="P$5" x="6.5" y="10" drill="1.1"/>
 <wire x1="-7.7" y1="11" x2="-5.75" y2="11" width="0.127" layer="21"/>
 <wire x1="-5.75" y1="11" x2="-5.5" y2="11" width="0.127" layer="21"/>
 <wire x1="-5.5" y1="11" x2="5.5" y2="11" width="0.127" layer="21"/>
@@ -740,11 +740,11 @@
 </package>
 <package name="MR30PW-FB">
 <description>AMASS MR30PW female type connector</description>
-<pad name="1" x="3.5" y="0" drill="1.7"/>
-<pad name="2" x="0" y="0" drill="1.7"/>
-<pad name="3" x="-3.5" y="0" drill="1.7"/>
-<pad name="P$4" x="-6.5" y="5" drill="1"/>
-<pad name="P$5" x="6.5" y="5" drill="1"/>
+<pad name="1" x="3.5" y="0" drill="1.8"/>
+<pad name="2" x="0" y="0" drill="1.8"/>
+<pad name="3" x="-3.5" y="0" drill="1.8"/>
+<pad name="P$4" x="-6.5" y="5" drill="1.1"/>
+<pad name="P$5" x="6.5" y="5" drill="1.1"/>
 <wire x1="-7.7" y1="6" x2="-5.75" y2="6" width="0.127" layer="21"/>
 <wire x1="-5.75" y1="6" x2="-5.5" y2="6" width="0.127" layer="21"/>
 <wire x1="-5.5" y1="6" x2="5.5" y2="6" width="0.127" layer="21"/>
@@ -961,9 +961,9 @@
 </package>
 <package name="MR30PB-FB">
 <description>AMASS MR30PB female type connector</description>
-<pad name="1" x="-3.5" y="0" drill="1.7"/>
-<pad name="2" x="0" y="0" drill="1.7"/>
-<pad name="3" x="3.5" y="0" drill="1.7"/>
+<pad name="1" x="-3.5" y="0" drill="1.8"/>
+<pad name="2" x="0" y="0" drill="1.8"/>
+<pad name="3" x="3.5" y="0" drill="1.8"/>
 <wire x1="5.95" y1="0" x2="3.5" y2="2.45" width="0.127" layer="21" curve="90"/>
 <wire x1="3.5" y1="2.45" x2="-3.5" y2="2.45" width="0.127" layer="21"/>
 <wire x1="-3.5" y1="2.45" x2="-5.95" y2="0" width="0.127" layer="21" curve="90"/>
@@ -986,9 +986,9 @@
 </package>
 <package name="MR30PB-M">
 <description>AMASS MR30PB male type connector</description>
-<pad name="1" x="-3.5" y="0" drill="1.7"/>
-<pad name="2" x="0" y="0" drill="1.7"/>
-<pad name="3" x="3.5" y="0" drill="1.7"/>
+<pad name="1" x="-3.5" y="0" drill="1.8"/>
+<pad name="2" x="0" y="0" drill="1.8"/>
+<pad name="3" x="3.5" y="0" drill="1.8"/>
 <wire x1="5.95" y1="0" x2="3.5" y2="2.45" width="0.127" layer="21" curve="90"/>
 <wire x1="3.5" y1="2.45" x2="-3.5" y2="2.45" width="0.127" layer="21"/>
 <wire x1="-3.5" y1="2.45" x2="-5.95" y2="0" width="0.127" layer="21" curve="90"/>
@@ -1008,8 +1008,8 @@
 </package>
 <package name="XT60PB-F">
 <description>AMASS XT60PB female type connector</description>
-<pad name="-" x="-3.6" y="0" drill="4.4"/>
-<pad name="+" x="3.6" y="0" drill="4.4"/>
+<pad name="-" x="-3.6" y="0" drill="4.5"/>
+<pad name="+" x="3.6" y="0" drill="4.5"/>
 <wire x1="7.8" y1="3.5" x2="7.8" y2="-3.5" width="0.127" layer="21"/>
 <wire x1="7.8" y1="-3.5" x2="7.3" y2="-4" width="0.127" layer="21" curve="-90"/>
 <wire x1="7.3" y1="-4" x2="-5.3" y2="-4" width="0.127" layer="21"/>
@@ -1074,8 +1074,8 @@
 </package>
 <package name="XT60PB-M">
 <description>AMASS XT60PB male type connector</description>
-<pad name="-" x="-3.6" y="0" drill="4.4"/>
-<pad name="+" x="3.6" y="0" drill="4.4"/>
+<pad name="-" x="-3.6" y="0" drill="4.5"/>
+<pad name="+" x="3.6" y="0" drill="4.5"/>
 <wire x1="7.8" y1="3.5" x2="7.8" y2="-3.5" width="0.127" layer="21"/>
 <wire x1="7.8" y1="-3.5" x2="7.3" y2="-4" width="0.127" layer="21" curve="-90"/>
 <wire x1="7.3" y1="-4" x2="-5.3" y2="-4" width="0.127" layer="21"/>
@@ -1131,14 +1131,14 @@
 </package>
 <package name="XT60PW-F">
 <description>AMASS XT60PW female type connector</description>
-<pad name="+" x="-3.6" y="0" drill="2.7"/>
-<pad name="-" x="3.6" y="0" drill="2.7"/>
+<pad name="+" x="-3.6" y="0" drill="2.8"/>
+<pad name="-" x="3.6" y="0" drill="2.8"/>
 <text x="-4.8" y="-4.7" size="1.778" layer="25">&gt;NAME</text>
 <text x="-5" y="15.3" size="1.778" layer="27">&gt;VALUE</text>
 <wire x1="-6.95" y1="15" x2="6.95" y2="15" width="0.127" layer="51"/>
 <wire x1="-7.9" y1="7.3" x2="-8" y2="7.2" width="0.127" layer="21" curve="90"/>
-<wire x1="-8" y1="7.2" x2="-8" y2="6.75" width="0.127" layer="21"/>
-<wire x1="-8" y1="6.75" x2="-8" y2="5" width="0.127" layer="51"/>
+<wire x1="-8" y1="7.2" x2="-8" y2="6.85" width="0.127" layer="21"/>
+<wire x1="-8" y1="6.85" x2="-8" y2="5" width="0.127" layer="51"/>
 <wire x1="-8" y1="5" x2="-8" y2="1.95" width="0.127" layer="21"/>
 <wire x1="-7.9" y1="7.3" x2="-7.6" y2="7.3" width="0.127" layer="21"/>
 <wire x1="-7.6" y1="7.3" x2="-6" y2="7.3" width="0.127" layer="51"/>
@@ -1146,8 +1146,7 @@
 <wire x1="6" y1="7.3" x2="7.6" y2="7.3" width="0.127" layer="51"/>
 <wire x1="7.6" y1="7.3" x2="7.9" y2="7.3" width="0.127" layer="21"/>
 <wire x1="7.9" y1="7.3" x2="8" y2="7.2" width="0.127" layer="21" curve="-90"/>
-<wire x1="8" y1="5" x2="8" y2="6.75" width="0.127" layer="51"/>
-<wire x1="8" y1="7.2" x2="8" y2="1.95" width="0.127" layer="21"/>
+<wire x1="8" y1="5" x2="8" y2="6.85" width="0.127" layer="51"/>
 <wire x1="-6.95" y1="15" x2="-6.95" y2="7.3" width="0.127" layer="51"/>
 <wire x1="6.95" y1="15" x2="6.95" y2="7.3" width="0.127" layer="51"/>
 <wire x1="-8" y1="1.95" x2="-4.5" y2="1.95" width="0.127" layer="21"/>
@@ -1166,13 +1165,15 @@
 <wire x1="3.5" y1="4" x2="5.5" y2="4" width="0.127" layer="21"/>
 <wire x1="5.5" y1="4" x2="5.5" y2="3" width="0.127" layer="21"/>
 <wire x1="5.5" y1="3" x2="3.5" y2="3" width="0.127" layer="21"/>
-<pad name="P$3" x="-6.75" y="6" drill="1.7"/>
-<pad name="P$4" x="6.75" y="6" drill="1.7"/>
+<pad name="P$3" x="-6.75" y="6" drill="1.8"/>
+<pad name="P$4" x="6.75" y="6" drill="1.8"/>
+<wire x1="8" y1="5" x2="8" y2="1.95" width="0.127" layer="21"/>
+<wire x1="8" y1="7.2" x2="8" y2="6.85" width="0.127" layer="21"/>
 </package>
 <package name="XT60PW-M">
 <description>AMASS XT60PW male type connector</description>
-<pad name="-" x="-3.6" y="0" drill="2.7"/>
-<pad name="+" x="3.6" y="0" drill="2.7"/>
+<pad name="-" x="-3.6" y="0" drill="2.8"/>
+<pad name="+" x="3.6" y="0" drill="2.8"/>
 <text x="-4.8" y="-4.7" size="1.778" layer="25">&gt;NAME</text>
 <text x="-5" y="16.3" size="1.778" layer="27">&gt;VALUE</text>
 <wire x1="-7.9" y1="16" x2="-8" y2="15.9" width="0.127" layer="21" curve="90"/>
@@ -1200,8 +1201,8 @@
 <wire x1="3.5" y1="4" x2="5.5" y2="4" width="0.127" layer="21"/>
 <wire x1="5.5" y1="4" x2="5.5" y2="3" width="0.127" layer="21"/>
 <wire x1="5.5" y1="3" x2="3.5" y2="3" width="0.127" layer="21"/>
-<pad name="P$3" x="-6.75" y="6" drill="1.7"/>
-<pad name="P$4" x="6.75" y="6" drill="1.7"/>
+<pad name="P$3" x="-6.75" y="6" drill="1.8"/>
+<pad name="P$4" x="6.75" y="6" drill="1.8"/>
 </package>
 <package name="XT60PT-F">
 <description>AMASS XT60PT female type connector</description>
@@ -1209,18 +1210,18 @@
 <text x="-5" y="0.33" size="1.778" layer="27">&gt;VALUE</text>
 <wire x1="-6.9" y1="8" x2="6.9" y2="8" width="0.127" layer="51"/>
 <wire x1="-7.9" y1="0" x2="-8" y2="-0.1" width="0.127" layer="21" curve="90"/>
-<wire x1="-8" y1="-0.1" x2="-8" y2="-0.75" width="0.127" layer="21"/>
-<wire x1="-8" y1="-0.75" x2="-8" y2="-2" width="0.127" layer="51"/>
-<wire x1="-8" y1="-2" x2="-8" y2="-5.45" width="0.127" layer="21"/>
-<wire x1="-7.9" y1="0" x2="-7.25" y2="0" width="0.127" layer="21"/>
-<wire x1="-7.25" y1="0" x2="-6" y2="0" width="0.127" layer="51"/>
+<wire x1="-8" y1="-0.1" x2="-8" y2="-0.55" width="0.127" layer="21"/>
+<wire x1="-8" y1="-0.55" x2="-8" y2="-2.2" width="0.127" layer="51"/>
+<wire x1="-8" y1="-2.2" x2="-8" y2="-5.45" width="0.127" layer="21"/>
+<wire x1="-7.9" y1="0" x2="-7.45" y2="0" width="0.127" layer="21"/>
+<wire x1="-7.45" y1="0" x2="-6" y2="0" width="0.127" layer="51"/>
 <wire x1="-6" y1="0" x2="6" y2="0" width="0.127" layer="21"/>
-<wire x1="6" y1="0" x2="7.25" y2="0" width="0.127" layer="51"/>
-<wire x1="7.25" y1="0" x2="7.9" y2="0" width="0.127" layer="21"/>
+<wire x1="6" y1="0" x2="7.45" y2="0" width="0.127" layer="51"/>
+<wire x1="7.45" y1="0" x2="7.9" y2="0" width="0.127" layer="21"/>
 <wire x1="7.9" y1="0" x2="8" y2="-0.1" width="0.127" layer="21" curve="-90"/>
-<wire x1="8" y1="-0.1" x2="8" y2="-0.75" width="0.127" layer="21"/>
-<wire x1="8" y1="-0.75" x2="8" y2="-2" width="0.127" layer="51"/>
-<wire x1="8" y1="-2" x2="8" y2="-5.45" width="0.127" layer="21"/>
+<wire x1="8" y1="-0.1" x2="8" y2="-0.55" width="0.127" layer="21"/>
+<wire x1="8" y1="-0.55" x2="8" y2="-2.2" width="0.127" layer="51"/>
+<wire x1="8" y1="-2.2" x2="8" y2="-5.45" width="0.127" layer="21"/>
 <wire x1="-6.9" y1="8" x2="-6.9" y2="0" width="0.127" layer="51"/>
 <wire x1="6.9" y1="8" x2="6.9" y2="0" width="0.127" layer="51"/>
 <wire x1="-8" y1="-5.45" x2="-7.5" y2="-5.45" width="0.127" layer="21"/>
@@ -1234,8 +1235,8 @@
 <wire x1="3.5" y1="-3.35" x2="5.5" y2="-3.35" width="0.127" layer="21"/>
 <wire x1="5.5" y1="-3.35" x2="5.5" y2="-4.35" width="0.127" layer="21"/>
 <wire x1="5.5" y1="-4.35" x2="3.5" y2="-4.35" width="0.127" layer="21"/>
-<pad name="P$3" x="-6.7" y="-1.35" drill="1.7"/>
-<pad name="P$4" x="6.7" y="-1.35" drill="1.7"/>
+<pad name="P$3" x="-6.7" y="-1.35" drill="1.8"/>
+<pad name="P$4" x="6.7" y="-1.35" drill="1.8"/>
 <smd name="+" x="-3.6" y="-10.35" dx="4" dy="4.5" layer="1" roundness="5"/>
 <smd name="-" x="3.6" y="-10.35" dx="4" dy="4.5" layer="1" roundness="5"/>
 <wire x1="6.5" y1="-14" x2="-6.5" y2="-14" width="0.127" layer="21"/>
@@ -1249,17 +1250,16 @@
 <text x="-5.3" y="-16.05" size="1.778" layer="25">&gt;NAME</text>
 <text x="-5" y="0.56" size="1.778" layer="27">&gt;VALUE</text>
 <wire x1="-8" y1="9" x2="8" y2="9" width="0.127" layer="51"/>
-<wire x1="-8" y1="0" x2="-8" y2="-0.75" width="0.127" layer="21"/>
-<wire x1="-8" y1="-0.75" x2="-8" y2="-2" width="0.127" layer="51"/>
-<wire x1="-8" y1="-2" x2="-8" y2="-5.45" width="0.127" layer="21"/>
-<wire x1="-8" y1="0" x2="-7.25" y2="0" width="0.127" layer="21"/>
-<wire x1="-7.25" y1="0" x2="-6" y2="0" width="0.127" layer="51"/>
-<wire x1="-6" y1="0" x2="8" y2="0" width="0.127" layer="21"/>
-<wire x1="7.25" y1="0" x2="6" y2="0" width="0.127" layer="51"/>
-<wire x1="8" y1="0" x2="8" y2="-0.75" width="0.127" layer="21"/>
-<wire x1="8" y1="-1.65" x2="8" y2="-0.75" width="0.127" layer="21"/>
-<wire x1="8" y1="-0.75" x2="8" y2="-2" width="0.127" layer="51"/>
-<wire x1="8" y1="-2" x2="8" y2="-5.45" width="0.127" layer="21"/>
+<wire x1="-8" y1="0" x2="-8" y2="-0.55" width="0.127" layer="21"/>
+<wire x1="-8" y1="-0.55" x2="-8" y2="-2.2" width="0.127" layer="51"/>
+<wire x1="-8" y1="-2.2" x2="-8" y2="-5.45" width="0.127" layer="21"/>
+<wire x1="-8" y1="0" x2="-7.45" y2="0" width="0.127" layer="21"/>
+<wire x1="-7.45" y1="0" x2="-6" y2="0" width="0.127" layer="51"/>
+<wire x1="-6" y1="0" x2="6" y2="0" width="0.127" layer="21"/>
+<wire x1="7.45" y1="0" x2="6" y2="0" width="0.127" layer="51"/>
+<wire x1="8" y1="-0.55" x2="8" y2="0" width="0.127" layer="21"/>
+<wire x1="8" y1="-0.55" x2="8" y2="-2.2" width="0.127" layer="51"/>
+<wire x1="8" y1="-2.2" x2="8" y2="-5.45" width="0.127" layer="21"/>
 <wire x1="-8" y1="9" x2="-8" y2="0" width="0.127" layer="51"/>
 <wire x1="8" y1="9" x2="8" y2="0" width="0.127" layer="51"/>
 <wire x1="-8" y1="-5.45" x2="-7.5" y2="-5.45" width="0.127" layer="21"/>
@@ -1273,8 +1273,8 @@
 <wire x1="3.5" y1="-3.35" x2="5.5" y2="-3.35" width="0.127" layer="21"/>
 <wire x1="5.5" y1="-3.35" x2="5.5" y2="-4.35" width="0.127" layer="21"/>
 <wire x1="5.5" y1="-4.35" x2="3.5" y2="-4.35" width="0.127" layer="21"/>
-<pad name="P$3" x="-6.7" y="-1.35" drill="1.7"/>
-<pad name="P$4" x="6.7" y="-1.35" drill="1.7"/>
+<pad name="P$3" x="-6.7" y="-1.35" drill="1.8"/>
+<pad name="P$4" x="6.7" y="-1.35" drill="1.8"/>
 <smd name="-" x="-3.6" y="-10.35" dx="4" dy="4.5" layer="1" roundness="5"/>
 <smd name="+" x="3.6" y="-10.35" dx="4" dy="4.5" layer="1" roundness="5"/>
 <wire x1="6.5" y1="-14" x2="-6.5" y2="-14" width="0.127" layer="21"/>
@@ -1282,13 +1282,14 @@
 <wire x1="-7.5" y1="-13" x2="-7.5" y2="-5.45" width="0.127" layer="21"/>
 <wire x1="6.5" y1="-14" x2="7.5" y2="-13" width="0.127" layer="21" curve="90"/>
 <wire x1="7.5" y1="-13" x2="7.5" y2="-5.45" width="0.127" layer="21"/>
+<wire x1="7.45" y1="0" x2="8" y2="0" width="0.127" layer="21"/>
 </package>
 <package name="XT90PB-F">
 <description>AMASS XT90PB female type connector</description>
 <text x="-7" y="-7" size="1.778" layer="25">&gt;NAME</text>
 <text x="-7" y="5.3" size="1.778" layer="27">&gt;VALUE</text>
-<pad name="-" x="-5.5" y="0" drill="5.8"/>
-<pad name="+" x="5.5" y="0" drill="5.8"/>
+<pad name="-" x="-5.5" y="0" drill="5.9"/>
+<pad name="+" x="5.5" y="0" drill="5.9"/>
 <wire x1="10.4" y1="4.95" x2="-7.1" y2="4.95" width="0.127" layer="21"/>
 <wire x1="-7.1" y1="4.95" x2="-10.4" y2="2.2" width="0.127" layer="21"/>
 <wire x1="-10.4" y1="2.2" x2="-10.4" y2="-2.2" width="0.127" layer="21"/>
@@ -1304,8 +1305,8 @@
 <description>AMASS XT90PB male type connector</description>
 <text x="-7" y="-7" size="1.778" layer="25">&gt;NAME</text>
 <text x="-7" y="5.3" size="1.778" layer="27">&gt;VALUE</text>
-<pad name="-" x="-5.5" y="0" drill="5.8"/>
-<pad name="+" x="5.5" y="0" drill="5.8"/>
+<pad name="-" x="-5.5" y="0" drill="5.9"/>
+<pad name="+" x="5.5" y="0" drill="5.9"/>
 <wire x1="10.4" y1="4.95" x2="-7.1" y2="4.95" width="0.127" layer="21"/>
 <wire x1="-7.1" y1="4.95" x2="-10.4" y2="2.2" width="0.127" layer="21"/>
 <wire x1="-10.4" y1="2.2" x2="-10.4" y2="-2.2" width="0.127" layer="21"/>
@@ -1327,10 +1328,10 @@
 <description>AMASS XT90PW female type connector</description>
 <text x="-5" y="-4.5" size="1.778" layer="25">&gt;NAME</text>
 <text x="-8.23" y="13.14" size="1.778" layer="27">&gt;VALUE</text>
-<pad name="+" x="-5.45" y="0" drill="3.9"/>
-<pad name="-" x="5.45" y="0" drill="3.9"/>
-<pad name="P$3" x="-9.45" y="8.9" drill="1.6"/>
-<pad name="P$4" x="9.45" y="8.9" drill="1.6"/>
+<pad name="+" x="-5.45" y="0" drill="4"/>
+<pad name="-" x="5.45" y="0" drill="4"/>
+<pad name="P$3" x="-9.45" y="8.9" drill="1.7"/>
+<pad name="P$4" x="9.45" y="8.9" drill="1.7"/>
 <wire x1="-10.65" y1="11.9" x2="10.65" y2="11.9" width="0.127" layer="21"/>
 <wire x1="-10.65" y1="3.9" x2="10.65" y2="3.9" width="0.127" layer="21"/>
 <wire x1="-10.65" y1="11.9" x2="-10.65" y2="9.75" width="0.127" layer="21"/>
@@ -1364,10 +1365,10 @@
 <description>AMASS XT90PW male type connector</description>
 <text x="-5" y="-4.5" size="1.778" layer="25">&gt;NAME</text>
 <text x="-6.5" y="25.3" size="1.778" layer="27">&gt;VALUE</text>
-<pad name="+" x="-5.45" y="0" drill="3.9"/>
-<pad name="-" x="5.45" y="0" drill="3.9"/>
-<pad name="P$3" x="-9.45" y="8.9" drill="1.6"/>
-<pad name="P$4" x="9.45" y="8.9" drill="1.6"/>
+<pad name="+" x="-5.45" y="0" drill="4"/>
+<pad name="-" x="5.45" y="0" drill="4"/>
+<pad name="P$3" x="-9.45" y="8.9" drill="1.7"/>
+<pad name="P$4" x="9.45" y="8.9" drill="1.7"/>
 <wire x1="-10.65" y1="3.9" x2="10.65" y2="3.9" width="0.127" layer="21"/>
 <wire x1="-10.65" y1="24.6" x2="10.65" y2="24.6" width="0.127" layer="21"/>
 <wire x1="-10.65" y1="24.6" x2="-10.65" y2="9.75" width="0.127" layer="21"/>
